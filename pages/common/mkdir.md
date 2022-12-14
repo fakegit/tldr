@@ -5,7 +5,11 @@
 
 - Create a directory in current directory or given path:
 
-`mkdir {{directory}}`
+`mkdir {{path/to/directory}}`
+
+- Create multiple directories in the current directory:
+
+`mkdir {{directory_1 directory_2 ...}}`
 
 - Create directories recursively (useful for creating nested dirs):
 

@@ -1,10 +1,11 @@
 # pv
 
 > Monitor the progress of data through a pipe.
+> More information: <https://manned.org/pv>.
 
 - Print the contents of the file and display a progress bar:
 
-`pv {{file}}`
+`pv {{path/to/file}}`
 
 - Measure the speed and amount of data flow between pipes (`-s` is optional):
 
